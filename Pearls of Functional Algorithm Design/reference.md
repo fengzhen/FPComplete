@@ -24,37 +24,51 @@
 
 
 
-Preface	page ix
-1	The smallest free number	                        1
-2	A surpassing problem	                            7
-3	Improving on saddleback search	                   12
-4	A selection problem	                               21
-5	Sorting pairwise sums	                           27
-6	Making a century	                               33
-7	Building a tree with minimum height                41
-8	Unravelling greedy algorithms	                   50
-9	Finding celebrities	                               56
-10	Removing duplicates	                               64
-11	Not the maximum segment sum	                       73
-12	Ranking suffixes	                               79
-13	The Burrows-Wheeler transform	                   91
-14	The last tail	                                  102
-15	All the common prefixes	                          112
-16	The Boyer-Moore algorithm	                      117
-17	The Knuth-Morris-Pratt algorithm	              127
-18	Planning solves the Rush Hour problem	          136
-19	A simple Sudoku solver	                          147
-20	The Countdown problem	                          156
-21	Hylomorphisms and nexuses	                      168
-22	Three ways of computing determinants	          180
-23	Inside the convex hull	                          188
-24	Rational arithmetic coding	                      198
-25	Integer arithmetic coding	                      208
-26	The Schorr-Waite algorithm	                      221
-27	Orderly insertion	                              231
-28	Loopless functional algorithms	                  242
-29	The Johnson-Trotter algorithm	                  251
-30	Spider spinning for dummies	                      258
+
+                                            1	The smallest free number	                        1
+
+                                            2	A surpassing problem	                            7
+
+                                            3	Improving on saddleback search	                   12
+
+                                            4	A selection problem	                               21
+
+                                            5	Sorting pairwise sums	                           27
+
+                                            6	Making a century	                               33
+
+                                           7	Building a tree with minimum height                41
+
+                                           8	Unravelling greedy algorithms	                   50
+
+                                           9	Finding celebrities	                               56
+
+                                           10	Removing duplicates	                               64
+                                           11	Not the maximum segment sum	                       73
+
+
+                                           12	Ranking suffixes	                               79
+
+                                           13	The Burrows-Wheeler transform	                   91
+
+                                           14	The last tail	                                  102
+
+                                           15	All the common prefixes	                          112
+                                           16	The Boyer-Moore algorithm	                      117
+                                            17	The Knuth-Morris-Pratt algorithm	              127
+                                           18	Planning solves the Rush Hour problem	          136
+                                           19	A simple Sudoku solver	                          147
+                                           20	The Countdown problem	                          156
+                                           21	Hylomorphisms and nexuses	                      168
+                                           22	Three ways of computing determinants	          180
+                                           23	Inside the convex hull	                          188
+                                           24	Rational arithmetic coding	                      198
+                                           25	Integer arithmetic coding	                      208
+                                           26	The Schorr-Waite algorithm	                      221
+                                           27	Orderly insertion	                              231
+                                           28	Loopless functional algorithms	                  242
+                                           29	The Johnson-Trotter algorithm	                  251
+                                           30	Spider spinning for dummies	                      258
 
 
 
