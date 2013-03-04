@@ -112,7 +112,6 @@ where (us , vs ) = partition (< b) xs
 
                                                             Page 4
 
-          
                                                     The smallest free number	
 It remains to choose b. Clearly, we want b > a . And we would also like to choose b so that the maximum of the lengths of us and vs is as small as possible. The right choice of b to satisfy these requirements is 
 b	=   a + 1 + n div 2
